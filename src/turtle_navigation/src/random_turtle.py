@@ -28,7 +28,7 @@ def move():
     print("Oioi:",vel_msg)
 
 def random_speed():
-    random_val = random.randint(-10,10)
+    random_val = random.randint(-10,11)
     return random_val
 
 
